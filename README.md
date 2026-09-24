@@ -179,21 +179,6 @@ This is where we include some calculations formatted in new columns used during 
 
 
 
-<img width="840" height="700" alt="units_vs_revenue" src="https://github.com/user-attachments/assets/955186e1-81fb-47b1-87bd-a6a889ece2a6" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![PIE CHART]<img width="483" height="545" alt="branch rev gen" src="https://github.com/user-attachments/assets/9076d480-d399-472b-b68d-e420283905a5" />
 
