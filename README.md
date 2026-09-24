@@ -144,7 +144,7 @@ This is where we include some calculations formatted in new columns used during 
 
 
 
-![BAR CHART]!<img width="577" height="540" alt="daily rev" src="https://github.com/user-attachments/assets/49a30070-1a87-43bf-8b06-784332fa9e4e" />
+![BAR CHART]!<img width="840" height="700" alt="units_vs_revenue" src="https://github.com/user-attachments/assets/c8d75768-e6b2-4e5b-8ae5-2222c39d68e9" />
 
 
 
@@ -162,7 +162,6 @@ This is where we include some calculations formatted in new columns used during 
 
 
 
-![BAR CHART]!<img width="1104" height="459" alt="AGEGROUPBMI" src="https://github.com/user-attachments/assets/8a20161e-eb4f-41e1-b792-5dd057221bb3" />
 
 
 
@@ -180,7 +179,7 @@ This is where we include some calculations formatted in new columns used during 
 
 
 
-![LINE CHART]!<img width="1216" height="477" alt="AGEPATIET" src="https://github.com/user-attachments/assets/9a30c132-1e7f-4ac2-b8aa-6e6e9f96651c" />
+<img width="840" height="700" alt="units_vs_revenue" src="https://github.com/user-attachments/assets/955186e1-81fb-47b1-87bd-a6a889ece2a6" />
 
 
 
